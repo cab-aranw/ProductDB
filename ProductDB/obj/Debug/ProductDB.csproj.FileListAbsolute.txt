@@ -1,0 +1,12 @@
+C:\Users\w_ara\source\repos\ProductDB\ProductDB\bin\Debug\ProductDB.mdf
+C:\Users\w_ara\source\repos\ProductDB\ProductDB\bin\Debug\ProductDB_log.ldf
+C:\Users\w_ara\source\repos\ProductDB\ProductDB\bin\Debug\ProductDB.exe.config
+C:\Users\w_ara\source\repos\ProductDB\ProductDB\bin\Debug\ProductDB.exe
+C:\Users\w_ara\source\repos\ProductDB\ProductDB\bin\Debug\ProductDB.pdb
+C:\Users\w_ara\source\repos\ProductDB\ProductDB\obj\Debug\ProductDB.csprojAssemblyReference.cache
+C:\Users\w_ara\source\repos\ProductDB\ProductDB\obj\Debug\ProductDB.DetailsForm.resources
+C:\Users\w_ara\source\repos\ProductDB\ProductDB\obj\Debug\ProductDB.MainForm.resources
+C:\Users\w_ara\source\repos\ProductDB\ProductDB\obj\Debug\ProductDB.Properties.Resources.resources
+C:\Users\w_ara\source\repos\ProductDB\ProductDB\obj\Debug\ProductDB.csproj.GenerateResource.cache
+C:\Users\w_ara\source\repos\ProductDB\ProductDB\obj\Debug\ProductDB.exe
+C:\Users\w_ara\source\repos\ProductDB\ProductDB\obj\Debug\ProductDB.pdb
